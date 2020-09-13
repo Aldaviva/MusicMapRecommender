@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MusicMapRecommender": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Ben\\Documents\\Projects\\MusicMapRecommender\\knownArtists.txt\""
+    }
+  }
+}

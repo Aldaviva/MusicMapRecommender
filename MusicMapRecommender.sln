@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicMapRecommender", "MusicMapRecommender\MusicMapRecommender.csproj", "{CFC4C706-791E-4D96-9AF4-CF0B7764877B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC4C706-791E-4D96-9AF4-CF0B7764877B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC4C706-791E-4D96-9AF4-CF0B7764877B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC4C706-791E-4D96-9AF4-CF0B7764877B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC4C706-791E-4D96-9AF4-CF0B7764877B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41031E62-0C27-42C0-9663-A484949CB501}
+	EndGlobalSection
+EndGlobal
